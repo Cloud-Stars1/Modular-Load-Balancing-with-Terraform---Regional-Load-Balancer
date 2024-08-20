@@ -6,7 +6,7 @@
 
 
 ```
-export ZONE=
+export REGION=
 ```
 
 ```
