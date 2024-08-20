@@ -1,6 +1,6 @@
 # Modular Load Balancing with Terraform - Regional Load Balancer || GSP191
 
-## Solution [here](https://youtu.be/xnKyLnHcBXU)
+## Solution [here](https://youtu.be/M_-C96PEMwk)
 
 ### Run the following Commands in the Cloud shell
 
